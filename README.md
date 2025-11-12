@@ -43,7 +43,7 @@
 4. Payment Method Distribution: A chart (donut chart) showing the distribution of overall transactions across various payment gateways, revealing popular payment methods.
 5. Trend Over Time: An area chart that shows the weekly trend a bar chart showing the trend hourly over time.
 ## Dasboard:
-<img width="1234" height="732" alt="Shopify_dashboard_image" src="C:\Users\Ashika\OneDrive\Desktop\analyst\Shopify-dashboard\Shopify_dashboard_image.png" />
+<img src="Shopify_dashboard_image.png" alt="Shopify Dashboard Image" width="1234" height="732">
 
 
 
